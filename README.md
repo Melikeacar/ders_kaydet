@@ -1,4 +1,4 @@
-# ders_kaydet 📚  
+# Ders Kaydet 📚  
 _Katmanlı Mimari ile ASP.NET MVC Öğrenme Projesi_
 
 ders_kaydet, **katmanlı mimari (Layered Architecture)** yapısını öğrenmek ve uygulamak amacıyla geliştirilmiş örnek bir **ASP.NET MVC** projesidir.
